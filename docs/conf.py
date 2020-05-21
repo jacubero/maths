@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Recursos de matemáticas'
+project = u'Maths resources'
 copyright = u'2019, Jose Antonio Alvarez Cubero'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -176,7 +176,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Recursos de matemáticas'
+htmlhelp_basename = 'Maths resources'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -196,7 +196,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'maths.tex', u'Recursos de matemáticas',
+  ('index', 'maths.tex', u'Maths resources',
    u'Jose Antonio Alvarez Cubero', 'manual'),
 ]
 
@@ -226,7 +226,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'mathsbook', u'Recursos de matemáticas',
+    ('index', 'mathsbook', u'Maths resources',
      [u'Jose Antonio Alvarez Cubero'], 1)
 ]
 
@@ -240,8 +240,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'mathsbook', u'Recursos de matemáticas',
-   u'Recursos de matemáticas', 'Jose Antonio Alvarez Cubero', 'Recursos de matemáticas.',
+  ('index', 'mathsbook', u'Maths resources',
+   u'Maths resources', 'Jose Antonio Alvarez Cubero', 'Maths resources.',
    'Miscellaneous'),
 ]
 

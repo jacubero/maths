@@ -16,8 +16,9 @@ Table of contents:
 .. toctree::
    :maxdepth: 2
 
-   Maths competitive exams <maths>
-   Statistics competitive exams <statistics>
+   Indian maths competitive examinations <indiamath>
+   French statistics competitive examinations <francestat>
+   Indian statistics competitive examinations <indiastat>  
    Maths problems repositories <repositories>
 
    *

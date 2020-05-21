@@ -1,5 +1,5 @@
-India
-=====
+Indian maths competitive examinations
+=====================================
 
 UPSC Main Mathematics
 ---------------------
