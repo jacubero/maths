@@ -19,7 +19,7 @@ Table of contents:
    Indian maths competitive examinations <indiamath>
    French statistics competitive examinations <francestat>
    Indian statistics competitive examinations <indiastat>  
-   Maths problems repositories <repositories>
+   Interesting links <links>
 
    *
 
