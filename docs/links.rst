@@ -1,6 +1,40 @@
 Interesting links
 =================
 
+Mathematics Journals
+--------------------
+
+* `Compendium <https://sites.google.com/site/uugnaaninjbat/math-journals-matematikijn-zarim-setg-l>`_
+
+* `Mathematical Spectrum <http://www.appliedprobability.org/content.aspx?Group=ms&Page=allmsissues>`_
+
+YouTube channels
+----------------
+
+* `Michael Penn <https://www.youtube.com/channel/UC6jM0RFkr4eSkzT5Gx0HOAw>`_
+
+* `ProfOmarMath <https://www.youtube.com/channel/UCSoVyBb75Mf9o_eZGuKa2HQ>`_
+
+* `3Blue1Brown <https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw>`_
+
+* `MindYourDecisions <https://www.youtube.com/channel/UCHnj59g7jezwTy5GeL8EA_g>`_
+
+* `Essentials Of Math <https://www.youtube.com/channel/UCzBRotdJS3bJPcUZyePkHBw>`_
+
+* `Cyclic National Competitive Math Group <https://cncmath.org/>`_
+
+* `Think Twice <https://www.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg>`_
+
+* `vcubingx <https://www.youtube.com/channel/UCv0nF8zWevEsSVcmz6mlw6A>`_
+
+* `infinityplusone <https://www.youtube.com/channel/UCwTdEHoXvbhL3sDwgAyM6bw>`_
+
+* `LeiosOS <https://www.youtube.com/channel/UCd0dc7kQA1FUpJ76o1EjLqQ>`_
+
+* `Numberphile <https://www.youtube.com/user/numberphile>`_
+
+* `Welch Labs <https://www.youtube.com/channel/UConVfxXodg78Tzh5nNu85Ew>`_
+
 France
 ------
 
@@ -8,12 +42,19 @@ France
 
 * `Capes <http://math.univ-lyon1.fr/capes/IMG/pdf/>`_
 
+India
+-----
+
+* `Institute of Mathematical Sciences <https://www.ims4maths.com/>`_
+
+* `All Entrance and Recruitment exams <https://www.exambazaar.com/>`_
+
+* `UNION PUBLIC SERVICE COMMISSION <https://www.upsc.gov.in/examinations/previous-question-papers>`_
+
 Miscellaneous
 -------------
 
 * `College Algebra <https://courses.lumenlearning.com/waymakercollegealgebra/>`_
-
-* `Math Olympiad training handouts <http://yufeizhao.com/olympiad/>`_
 
 * `Interactive Mathematics Miscellany and Puzzles <https://www.cut-the-knot.org/>`_
 
@@ -26,6 +67,14 @@ Miscellaneous
 * `Wolfram Alpha <https://www.wolframalpha.com/>`_
 
 * `All Maths calculators <https://www.emathhelp.net/calculators/>`_
+
+Olympiads
+---------
+
+* `Math Olympiad training handouts <http://yufeizhao.com/olympiad/>`_
+
+* `Olympiad Training Materials <https://www.imomath.com/index.php?options=257&lmm=1>`_
+
 
 Probability
 -----------
