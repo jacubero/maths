@@ -19,6 +19,8 @@ YouTube channels
 
 * `MindYourDecisions <https://www.youtube.com/channel/UCHnj59g7jezwTy5GeL8EA_g>`_
 
+* `Dr Peyam <https://www.youtube.com/channel/UCoOjTxz-u5zU0W38zMkQIFw>`_
+
 * `Essentials Of Math <https://www.youtube.com/channel/UCzBRotdJS3bJPcUZyePkHBw>`_
 
 * `Cyclic National Competitive Math Group <https://cncmath.org/>`_
@@ -67,6 +69,8 @@ Miscellaneous
 * `Wolfram Alpha <https://www.wolframalpha.com/>`_
 
 * `All Maths calculators <https://www.emathhelp.net/calculators/>`_
+
+* `Calculus for Beginners and Artists <http://www-math.mit.edu/~djk/calculus_beginners/>`_
 
 Olympiads
 ---------
