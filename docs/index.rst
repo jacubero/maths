@@ -17,6 +17,7 @@ Table of contents:
    :maxdepth: 2
 
    Mathematics competitions <competitions>
+   Mathematics journals <journals>
    Indian maths competitive examinations <indiamath>
    French statistics competitive examinations <francestat>
    Indian statistics competitive examinations <indiastat>  
@@ -26,7 +27,7 @@ Table of contents:
 
 
 
-Índices y tablas
+Indexes y tables
 ================
 
 * :ref:`genindex`
