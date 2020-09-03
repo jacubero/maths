@@ -226,5 +226,287 @@ William Lowell Putnam Mathematical Competition
 
       - 
 
+    * - 1984
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1984.html>`_
+
+      - 
+
+    * - 1983
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1983.html>`_
+
+      - 
+
+    * - 1982
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1982.html>`_
+
+      - 
+
+    * - 1981
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1981.html>`_
+
+      - 
+
+    * - 1980
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1980.html>`_
+
+      - 
+
+    * - 1979
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1979.html>`_
+
+      - 
+
+    * - 1978
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1978.html>`_
+
+      - 
+
+    * - 1977
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1977.html>`_
+
+      - 
+
+    * - 1976
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1976.html>`_
+
+      - 
+
+    * - 1975
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1975.html>`_
+
+      - 
+
+    * - 1974
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1974.html>`_
+
+      - 
+
+    * - 1973
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1973.html>`_
+
+      - 
+
+    * - 1972
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1972.html>`_
+
+      - 
+
+    * - 1971
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1971.html>`_
+
+      - 
+
+    * - 1970
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1970.html>`_
+
+      - 
+
+    * - 1969
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1969.html>`_
+
+      - 
+
+    * - 1968
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1968.html>`_
+
+      - 
+
+    * - 1967
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1967.html>`_
+
+      - 
+
+    * - 1966
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1966.html>`_
+
+      - 
+
+    * - 1965
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1965.html>`_
+
+      - 
+
+    * - 1964
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1964.html>`_
+
+      - 
+
+    * - 1963
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1963.html>`_
+
+      - 
+
+    * - 1962
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1962.html>`_
+
+      - 
+
+    * - 1961
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1961.html>`_
+
+      - 
+
+    * - 1960
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1960.html>`_
+
+      - 
+
+    * - 1959
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1959.html>`_
+
+      - 
+
+    * - 1958
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1958.html>`_, `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1958a.html>`_
+
+      - 
+
+    * - 1957
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1957.html>`_
+
+      - 
+
+    * - 1956
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1956.html>`_
+
+      - 
+
+    * - 1955
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1955.html>`_
+
+      - 
+
+    * - 1954
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1954.html>`_
+
+      - 
+
+    * - 1953
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1953.html>`_
+
+      - 
+
+    * - 1952
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1952.html>`_
+
+      - 
+
+    * - 1951
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1951.html>`_
+
+      - 
+
+    * - 1950
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1950.html>`_
+
+      - 
+
+    * - 1949
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1949.html>`_
+
+      - 
+
+    * - 1948
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1948.html>`_
+
+      - 
+
+    * - 1947
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1947.html>`_
+
+      - 
+
+    * - 1946
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1946.html>`_
+
+      - 
+
+    * - 1945
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1945.html>`_
+
+      - 
+
+    * - 1944
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1944.html>`_
+
+      - 
+
+    * - 1943
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1943.html>`_
+
+      - 
+
+    * - 1942
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1942.html>`_
+
+      - 
+
+    * - 1941
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1941.html>`_
+
+      - 
+
+    * - 1940
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1940.html>`_
+
+      - 
+
+    * - 1939
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1939.html>`_
+
+      - 
+
+    * - 1938
+
+      - `HTML <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1938.html>`_
+
+      - 
+
 
 
