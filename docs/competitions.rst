@@ -1,5 +1,5 @@
-Indian maths competitive examinations
-=====================================
+Mathematics competitions
+========================
 
 
 William Lowell Putnam Mathematical Competition
@@ -165,6 +165,66 @@ William Lowell Putnam Mathematical Competition
       - `TeX <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1995.tex>`_, `PDF <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1995.pdf>`_
 
       - `TeX <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1995s.tex>`_, `PDF <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1995s.pdf>`_
+
+    * - 1994
+
+      - `TeX <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1994.tex>`_, `PDF <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1994.pdf>`_
+
+      - 
+
+    * - 1993
+
+      - `TeX <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1993.tex>`_, `PDF <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1993.pdf>`_
+
+      - 
+
+    * - 1992
+
+      - `TeX <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1992.tex>`_, `PDF <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1992.pdf>`_
+
+      - 
+
+    * - 1991
+
+      - `TeX <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1991.tex>`_, `PDF <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1991.pdf>`_
+
+      - 
+
+    * - 1990
+
+      - `TeX <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1990.tex>`_, `PDF <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1990.pdf>`_
+
+      - 
+
+    * - 1989
+
+      - `TeX <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1989.tex>`_, `PDF <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1989.pdf>`_
+
+      - 
+
+    * - 1988
+
+      - `TeX <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1988.tex>`_, `PDF <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1988.pdf>`_
+
+      - 
+
+    * - 1987
+
+      - `TeX <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1987.tex>`_, `PDF <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1987.pdf>`_
+
+      - 
+
+    * - 1986
+
+      - `TeX <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1986.tex>`_, `PDF <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1986.pdf>`_
+
+      - 
+
+    * - 1985
+
+      - `TeX <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1985.tex>`_, `PDF <https://github.com/jacubero/maths/blob/master/Competitions/Putnam/1985.pdf>`_
+
+      - 
 
 
 
