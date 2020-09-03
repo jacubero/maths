@@ -1,6 +1,386 @@
 Mathematics competitions
 ========================
 
+International Mathematical Olympiad
+-----------------------------------
+
+.. list-table:: Past problems.
+    :widths: 5 10 10
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - Year
+
+      - Problems
+
+      - Shortlist
+
+    * - 2019
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2019.pdf>`_
+
+      - 
+
+    * - 2018
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2018.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/IMO2018SL.pdf>`_
+
+    * - 2017
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2017.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/IMO2017SL.pdf>`_
+
+    * - 2016
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2016.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/IMO2016SL.pdf>`_
+
+    * - 2015
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2015.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/IMO2015SL.pdf>`_
+
+    * - 2014
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2014.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/IMO2014SL.pdf>`_
+
+    * - 2013
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2013.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/IMO2013SL.pdf>`_
+
+    * - 2012
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2012.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/IMO2012SL.pdf>`_
+
+    * - 2011
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2011.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/IMO2011SL.pdf>`_
+
+    * - 2010
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2010.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/IMO2010SL.pdf>`_
+
+    * - 2009
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2009.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/IMO2009SL.pdf>`_
+
+    * - 2008
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2008.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/IMO2008SL.pdf>`_
+
+    * - 2007
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2007.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/IMO2007SL.pdf>`_
+
+    * - 2006
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2006.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/IMO2006SL.pdf>`_
+
+    * - 2005
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2005_eng.pdf>`_
+
+      - 
+
+    * - 2004
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2004_eng.pdf>`_
+
+      - 
+
+    * - 2003
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2003_eng.pdf>`_
+
+      - 
+
+    * - 2002
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2002_eng.pdf>`_
+
+      - 
+
+    * - 2001
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2001_eng.pdf>`_
+
+      - 
+
+    * - 2000
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2000_eng.pdf>`_
+
+      - 
+
+    * - 1999
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1999_eng.pdf>`_
+
+      - 
+
+    * - 1998
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1998_eng.pdf>`_
+
+      - 
+
+    * - 1997
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1997_eng.pdf>`_
+
+      - 
+
+    * - 1996
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1996_eng.pdf>`_
+
+      - 
+
+    * - 1995
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1995_eng.pdf>`_
+
+      - 
+
+    * - 1994
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1994_eng.pdf>`_
+
+      - 
+
+    * - 1993
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1993_eng.pdf>`_
+
+      - 
+
+    * - 1992
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1992_eng.pdf>`_
+
+      - 
+
+    * - 1991
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1991_eng.pdf>`_
+
+      - 
+
+    * - 1990
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1990_eng.pdf>`_
+
+      - 
+
+    * - 1989
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1989_eng.pdf>`_
+
+      - 
+
+    * - 1988
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1988_eng.pdf>`_
+
+      - 
+
+    * - 1987
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1987_eng.pdf>`_
+
+      - 
+
+    * - 1986
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1986_eng.pdf>`_
+
+      - 
+
+    * - 1985
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1985_eng.pdf>`_
+
+      - 
+
+    * - 1984
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1984_eng.pdf>`_
+
+      - 
+
+    * - 1983
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1983_eng.pdf>`_
+
+      - 
+
+    * - 1982
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1982_eng.pdf>`_
+
+      - 
+
+    * - 1981
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1981_eng.pdf>`_
+
+      - 
+
+    * - 1980
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1980_eng.pdf>`_
+
+      - 
+
+    * - 1979
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1979_eng.pdf>`_
+
+      - 
+
+    * - 1978
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1978_eng.pdf>`_
+
+      - 
+
+    * - 1977
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1977_eng.pdf>`_
+
+      - 
+
+    * - 1976
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1976_eng.pdf>`_
+
+      - 
+
+    * - 1975
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1975_eng.pdf>`_
+
+      - 
+
+    * - 1974
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1974_eng.pdf>`_
+
+      - 
+
+    * - 1973
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1973_eng.pdf>`_
+
+      - 
+
+    * - 1972
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1972_eng.pdf>`_
+
+      - 
+
+    * - 1971
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1971_eng.pdf>`_
+
+      - 
+
+    * - 1970
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1970_eng.pdf>`_
+
+      - 
+
+    * - 1969
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1969_eng.pdf>`_
+
+      - 
+
+    * - 1968
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1968_eng.pdf>`_
+
+      - 
+
+    * - 1967
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1967_eng.pdf>`_
+
+      - 
+
+    * - 1966
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1966_eng.pdf>`_
+
+      - 
+
+    * - 1965
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1965_eng.pdf>`_
+
+      - 
+
+    * - 1964
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1964_eng.pdf>`_
+
+      - 
+
+    * - 1963
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1963_eng.pdf>`_
+
+      - 
+
+    * - 1962
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1962_eng.pdf>`_
+
+      - 
+
+    * - 1961
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1961_eng.pdf>`_
+
+      - 
+
+    * - 1960
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1960_eng.pdf>`_
+
+      - 
+
+    * - 1959
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/1959_eng.pdf>`_
+
+      - 
+
 
 William Lowell Putnam Mathematical Competition
 ----------------------------------------------
