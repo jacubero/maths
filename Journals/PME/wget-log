@@ -1,0 +1,69 @@
+Reusing existing connection to www.pme-math.org:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://pme-math.org/journal/issues/PMEJ.Vol.1.No3.pdf [following]
+--2020-09-05 09:50:32--  http://pme-math.org/journal/issues/PMEJ.Vol.1.No3.pdf
+Reusing existing connection to www.pme-math.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-09-05 09:50:33 ERROR 404: Not Found.
+
+--2020-09-05 09:50:33--  http://www.pme-math.org/journal/issues/PMEJ.Vol.1.No4.pdf
+Reusing existing connection to www.pme-math.org:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://pme-math.org/journal/issues/PMEJ.Vol.1.No4.pdf [following]
+--2020-09-05 09:50:34--  http://pme-math.org/journal/issues/PMEJ.Vol.1.No4.pdf
+Reusing existing connection to www.pme-math.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-09-05 09:50:35 ERROR 404: Not Found.
+
+--2020-09-05 09:50:35--  http://www.pme-math.org/journal/issues/PMEJ.Vol.1.No5.pdf
+Reusing existing connection to www.pme-math.org:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://pme-math.org/journal/issues/PMEJ.Vol.1.No5.pdf [following]
+--2020-09-05 09:50:35--  http://pme-math.org/journal/issues/PMEJ.Vol.1.No5.pdf
+Reusing existing connection to www.pme-math.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-09-05 12:48:04 ERROR 404: Not Found.
+
+--2020-09-05 12:48:04--  http://www.pme-math.org/journal/issues/PMEJ.Vol.1.No6.pdf
+Connecting to www.pme-math.org (www.pme-math.org)|74.220.207.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://pme-math.org/journal/issues/PMEJ.Vol.1.No6.pdf [following]
+--2020-09-05 12:48:05--  http://pme-math.org/journal/issues/PMEJ.Vol.1.No6.pdf
+Reusing existing connection to www.pme-math.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-09-05 12:48:06 ERROR 404: Not Found.
+
+--2020-09-05 12:48:06--  http://www.pme-math.org/journal/issues/PMEJ.Vol.1.No7.pdf
+Reusing existing connection to www.pme-math.org:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://pme-math.org/journal/issues/PMEJ.Vol.1.No7.pdf [following]
+--2020-09-05 12:48:06--  http://pme-math.org/journal/issues/PMEJ.Vol.1.No7.pdf
+Reusing existing connection to www.pme-math.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-09-05 12:48:07 ERROR 404: Not Found.
+
+--2020-09-05 12:48:07--  http://www.pme-math.org/journal/issues/PMEJ.Vol.1.No8.pdf
+Reusing existing connection to www.pme-math.org:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://pme-math.org/journal/issues/PMEJ.Vol.1.No8.pdf [following]
+--2020-09-05 12:48:08--  http://pme-math.org/journal/issues/PMEJ.Vol.1.No8.pdf
+Reusing existing connection to www.pme-math.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-09-05 12:48:09 ERROR 404: Not Found.
+
+--2020-09-05 12:48:09--  http://www.pme-math.org/journal/issues/PMEJ.Vol.1.No9.pdf
+Reusing existing connection to www.pme-math.org:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://pme-math.org/journal/issues/PMEJ.Vol.1.No9.pdf [following]
+--2020-09-05 12:48:09--  http://pme-math.org/journal/issues/PMEJ.Vol.1.No9.pdf
+Reusing existing connection to www.pme-math.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-09-05 12:48:10 ERROR 404: Not Found.
+
+--2020-09-05 12:48:10--  http://www.pme-math.org/journal/issues/PMEJ.Vol.1.No10.pdf
+Reusing existing connection to www.pme-math.org:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://pme-math.org/journal/issues/PMEJ.Vol.1.No10.pdf [following]
+--2020-09-05 12:48:11--  http://pme-math.org/journal/issues/PMEJ.Vol.1.No10.pdf
+Reusing existing connection to www.pme-math.org:80.
+HTTP request sent, awaiting response... 

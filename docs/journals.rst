@@ -1545,6 +1545,275 @@ Mathematical Spectrum
 The Pi Mu Epsilon Journal
 -------------------------
 
+.. list-table:: Issues.
+    :widths: 5 10 10 10 10 10 10 10 10 10 10
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - Volume
+
+      - 1
+
+      - 2
+
+      - 3
+
+      - 4
+
+      - 5
+
+      - 6
+
+      - 7
+
+      - 8
+
+      - 9
+
+      - 10
+
+    * - 11
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.11.No.1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.11.No.2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.11.No.3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.11.No.4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.11.No.5.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.11.No.6.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.11.No.7.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.11.No.8.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.11.No.9.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.11.No.10.pdf>`_
+
+    * - 10
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.10.No.1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.10.No.2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.10.No.3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.10.No.4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.10.No.5.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.10.No.6.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.10.No.7.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.10.No.8.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.10.No.9.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.10.No.10.pdf>`_
+
+    * - 9
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.9.No.1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.9.No.2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.9.No.3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.9.No.4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.9.No.5.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.9.No.6.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.9.No.7.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.9.No.8.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.9.No.9.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.9.No.10.pdf>`_
+
+    * - 8
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.8.No.1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.8.No.2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.8.No.3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.8.No.4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.8.No.5.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.8.No.6.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.8.No.7.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.8.No.8.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.8.No.9.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.8.No.10.pdf>`_
+
+    * - 7
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.7.No.1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.7.No.2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.7.No.3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.7.No.4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.7.No.5.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.7.No.6.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.7.No.7.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.7.No.8.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.7.No.9.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.7.No.10.pdf>`_
+
+    * - 6
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.6.No.1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.6.No.2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.6.No.3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.6.No.4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.6.No.5.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.6.No.6.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.6.No.7.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.6.No.8.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.6.No.9.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.6.No.10.pdf>`_
+
+    * - 5
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.5.No.1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.5.No.2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.5.No.3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.5.No.4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.5.No.5.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.5.No.6.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.5.No.7.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.5.No.8.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.5.No.9.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.5.No.10.pdf>`_
+
+    * - 4
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.4.No.1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.4.No.2(reprint).pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.4.No.3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.4.No.4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.4.No.5.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.4.No.6.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.4.No.7.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.4.No.8.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.4.No.9.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.4.No.10.pdf>`_
+
+    * - 3
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.3.No.1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.3.No.2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.3.No.3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.3.No.4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.3.No.5.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.3.No.6.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.3.No.7.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.3.No.8.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.3.No.9.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.3.No.10.pdf>`_
+
+    * - 2
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.2.No.1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.2.No.2(reprint).pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.2.No.3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.2.No.4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.2.No.5(reprint).pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.2.No.6.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.2.No.7.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.2.No.8.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.2.No.9.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.2.No.10.pdf>`_
+
+    * - 1
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.1.No.1.2.3(reprint).pdf>`_
+
+      - 
+
+      - 
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.1.No.4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.1.No.5.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.1.No.6.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.1.No.7.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.1.No.8.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.1.No.9.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/PME/PMEJ.Vol.1.No.10.pdf>`_
+
 
 
 Mathematical Excalibur
