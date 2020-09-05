@@ -529,3 +529,10 @@ Mathematical Spectrum
 
       - 
 
+The Pi Mu Epsilon Journal
+-------------------------
+
+
+
+Mathematical Excalibur
+----------------------
