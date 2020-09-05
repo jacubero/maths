@@ -1549,3 +1549,285 @@ The Pi Mu Epsilon Journal
 
 Mathematical Excalibur
 ----------------------
+
+.. list-table:: Issues.
+    :widths: 5 10 10 10 10 10
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - Volume
+
+      - 1
+
+      - 2
+
+      - 3
+
+      - 4
+
+      - 5
+
+    * - 22
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v22_n1_20181025.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v22_n2_20190124.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v22_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v22_n4_20191021.pdf>`_
+
+      -
+
+    * - 21
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v21_n1_20170925.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v21_n2_20170921.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v21_n3_20180108.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v21_n4_20181024.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v21_n5_20181024.pdf>`_
+
+    * - 20
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v20_n1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v20_n2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v20_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v20_n4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v20_n5.pdf>`_
+
+    * - 19
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v19_n1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v19_n2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v19_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v19_n4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v19_n5.pdf>`_
+
+    * - 18
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v18_n1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v18_n2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v18_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v18_n4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v18_n5.pdf>`_
+
+    * - 17
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v17_n1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v17_n2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v17_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v17_n4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v17_n5.pdf>`_
+
+    * - 16
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v16_n1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v16_n2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v16_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v16_n4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v16_n5.pdf>`_
+
+    * - 15
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v15_n1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v15_n2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v15_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v15_n4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v15_n5.pdf>`_
+
+    * - 14
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v14_n1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v14_n2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v14_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v14_n4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v14_n5.pdf>`_
+
+    * - 13
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v13_n1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v13_n2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v13_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v13_n4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v13_n5.pdf>`_
+
+    * - 12
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v12_n1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v12_n2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v12_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v12_n4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v12_n5.pdf>`_
+
+    * - 11
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v11_n1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v11_n2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v11_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v11_n4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v11_n5.pdf>`_
+
+    * - 10
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v10_n1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v10_n2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v10_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v10_n4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v10_n5.pdf>`_
+
+    * - 9
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v9_n1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v9_n2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v9_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v9_n4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v9_n5.pdf>`_
+
+    * - 8
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v8_n1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v8_n2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v8_n3.pdf>`_, `Eng <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/Eng_v8_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v8_n4.pdf>`_, `Eng <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/Eng_v8_n4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v8_n5.pdf>`_, `Eng <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/Eng_v8_n5.pdf>`_
+
+    * - 7
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v7_n1.pdf>`_, `Eng <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/Eng_v7_n1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v7_n2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v7_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v7_n4.pdf>`_, `Eng <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/Eng_v7_n4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v7_n5.pdf>`_
+
+    * - 6
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v6_n1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v6_n2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v6_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v6_n4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v6_n5.pdf>`_
+
+    * - 5
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v5_n1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v5_n2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v5_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v5_n4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v5_n5.pdf>`_
+
+    * - 4
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v4_n1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v4_n2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v4_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v4_n4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v4_n5.pdf>`_
+
+    * - 3
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v3_n1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v3_n2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v3_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v3_n4.pdf>`_
+
+      - 
+
+    * - 2
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v2_n1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v2_n2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v2_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v2_n4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v2_n5.pdf>`_
+
+    * - 1
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v1_n1.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v1_n2.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v1_n3.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v1_n4.pdf>`_
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Excalibur/v1_n5.pdf>`_
+

@@ -1,0 +1,101 @@
+%% Note: this file uses PicTeX.
+%% When I processed it, LaTeX complained several times that the
+%% command \fiverm was unknown, but to no ill consequence.
+\documentstyle[12pt]{article}
+\include{pictex}
+\setlength{\baselineskip}{.25in}
+\begin{document}
+\begin{center}
+{\bf 20th USA Mathematical Olympiad} \\[.1in]
+{\bf April 23, 1991}\\
+{\bf Time Limit: 3}${{\bf 1}\over{\bf 2}}$ {\bf
+hours}
+\end{center}
+\begin{enumerate}
+\item
+In triangle $\, ABC, \,$ angle $\,A\,$ is twice angle $\,B,\,$
+angle $\,C\,$ is obtuse, and the three side lengths $\,a,b,c\,$ are
+integers.  Determine, with proof, the minimum possible perimeter.
+\item
+For any nonempty set $\,S\,$ of numbers, let $\,\sigma(S)\,$ and
+$\,\pi(S)\,$ denote the sum and product, respectively, of the
+elements of $\,S\,$.  Prove that
+\[
+\sum \frac{\sigma(S)}{\pi(S)} = (n^2 + 2n) - \left(
+1 + \frac{1}{2} + \frac{1}{3} + \cdots + \frac{1}{n} \right)
+(n+1),
+\]
+where ``$\Sigma$'' denotes a sum involving all nonempty subsets
+$S$ of \newline
+$\{1,2,3, \ldots,n\}$.
+\item
+Show that, for any fixed integer $\,n \geq 1,\,$ the sequence
+\[
+2, \; 2^2, \; 2^{2^2}, \; 2^{2^{2^2}}, \ldots  (\mbox{mod} \; n)
+\]
+is eventually constant. 
+
+[The tower of exponents is defined by $a_1 = 2, \; a_{i+1} =
+2^{a_i}$.
+Also $a_i \; (\mbox{mod} \; n)$ means the remainder which results
+from dividing $\,a_i\,$ by $\,n$.]
+\vspace*{\fill}
+\begin{center}
+{\footnotesize Copyright \copyright \hspace{.05in} Committee on
+the American
+Mathematics Competitions, Mathematical Association of America}
+\end{center}
+\pagebreak
+\item
+Let $\, a =(m^{m+1} + n^{n+1})/(m^m + n^n), \,$ where $\,m\,$ and
+$\,n\,$
+are positive integers.  Prove that $\,a^m + a^n \geq m^m +
+n^n$. 
+
+[You may wish to analyze the ratio $\,(a^N - N^N)/(a-N),$ for 
+real $\, a \geq 0 \,$ and integer $\, N \geq 1$.]
+\item
+Let $\, D \,$ be an arbitrary point on side $\, AB \,$ of a given
+triangle
+$\, ABC, \,$ and let $\, E \,$ be the interior point where 
+$\, CD \,$ intersects
+the external common tangent to the incircles of triangles $\,
+ACD \,$
+and $\, BCD$.  As $\, D \,$ assumes all positions between $\, A
+\,$ and $\, B \,$,
+prove that the point $\, E \, $ traces the arc of a circle.
+\end{enumerate}
+$$\vbox{\hbox{\beginpicture
+\setcoordinatesystem units <1pt,1pt>
+\put {$\scriptstyle\bullet$} at  0.00000 0.00000
+\put {$A    $} [rt] <-2.12pt,-2.12pt> at  -0.88000 -0.88000
+\put {$\scriptstyle\bullet$} at  220.000 0.00000
+\put {$B    $} [lt] <2.12pt,-2.12pt> at  220.880 -0.88000
+\put {$\scriptstyle\bullet$} at  18.7723 118.523
+\put {$C    $} [r] <-3pt,0pt> at  17.8923 118.523
+\put {$\scriptstyle\bullet$} at  72.6000 0.00000
+\put {$D    $} [t] <0pt,-3pt> at  72.6000 0.00000
+\put {$\scriptstyle\bullet$} at  46.3820 57.7292
+\put {$E    $} [lb] <2.12pt,2.12pt> at  44.8820 59.7292
+\put {$\scriptstyle\bullet$} at  86.6196 67.4129
+\put {$\scriptstyle\bullet$} at  24.9758 52.5775
+\linethickness=0.6pt \putrule from  220.000 0.00000 to  0.00000
+0.00000
+\setlinear \setplotsymbol ({\fiverm.}) \plotsymbolspacing=.4pt
+\plot
+ 0.00000 0.00000 18.7723 118.523
+ 220.000 0.00000 /
+\setlinear \setplotsymbol ({\fiverm.}) \plotsymbolspacing=.4pt
+\plot
+ 18.7723 118.523 72.6000 0.00000 /
+\setlinear \setplotsymbol ({\fiverm.}) \plotsymbolspacing=.4pt
+\plot
+ 24.9758 52.5775 86.6196 67.4129 /
+\circulararc 360 degrees from
+ 128.798 34.1809
+center at  94.6173 34.1809
+\circulararc 360 degrees from
+ 57.8723 26.6588
+center at  31.2135 26.6588
+\endpicture}}$$
+\end{document}

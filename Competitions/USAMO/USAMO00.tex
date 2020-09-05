@@ -1,0 +1,205 @@
+\documentclass[12pt]{article}
+\usepackage{amsfonts}
+
+\setlength{\textheight}{9.25in}
+\setlength{\textwidth}{6.5in}
+\setlength{\topmargin}{0.0in}
+\setlength{\headheight}{0.0in}
+\setlength{\headsep}{0.0in}
+\setlength{\leftmargin}{0.0in}
+\setlength{\oddsidemargin}{0.0in}
+\setlength{\parindent}{1pc}
+
+\def\calF{\mathcal{F}}
+\def\calG{\mathcal{G}}
+\def\calO{\mathcal{O}}
+\def\calS{\mathcal{S}}
+\def\calT{\mathcal{T}}
+\def\ida{\mathfrak{a}}
+\def\idb{\mathfrak{b}}
+\def\idm{\mathfrak{m}}
+\def\idn{\mathfrak{n}}
+\def\idp{\mathfrak{p}}
+\def\CC{\mathbb{C}}
+\def\FF{\mathbb{F}}
+\def\N{\mathbb{N}}
+\def\NN{\mathbb{N}}
+\def\PP{\mathbb{P}}
+\def\QQ{\mathbb{Q}}
+\def\RR{\mathbb{R}}
+\def\R{\mathbb{R}}
+\def\Z{\mathbb{Z}}
+\def\ZZ{\mathbb{Z}}
+
+\def\binom#1#2{{#1 \choose #2}}
+\def\mymod#1{\,(\mbox{mod}\,\, #1)}
+\def\pmatrix#1{\left( \begin{array}{ccc} #1 \end{array} \right)}
+%Structural macros
+\def\head#1{{\bf \noindent \newline #1:  } \nopagebreak}
+\def\map#1#2#3{#1\!: #2\to #3}
+\def\benum{\begin{enumerate}}
+\def\eenum{\end{enumerate}}
+\def\soln{\head{Solution}}
+\def\first{\head{First Solution}}
+\def\second{{\bf \noindent \newline Second Solution:  } \nopagebreak}
+\def\third{{\bf \noindent \newline Third Solution:  } \nopagebreak}
+\def\note{{\bf \noindent \newline Note:  } \nopagebreak}
+\def\be{\begin{enumerate}}
+\def\ee{\end{enumerate}}
+\def\beq{\begin{equation}}
+\def\eeq{\end{equation}}
+\def\beqa{\begin{eqnarray*}}
+\def\eeqa{\end{eqnarray*}}
+\def\bea{\begin{array}}
+\def\eea{\end{array}}
+\def\ii{\item}
+\def\ds{\dsp}
+\def\seqa{a_{1}, \dots, a_{n}}
+\def\seqb{b_{1}, \dots, b_{n}}
+\def\seqx{x_{1}, \dots, x_{n}}
+\def\lf{\lfloor}
+\def\rf{\rfloor}
+\def\Lp{\left(}
+\def\Rp{\right)}
+\def\L[{\left[}
+\def\R]{\right]}
+\def\alf{\alpha}
+\def\lcm{\mbox{lcm}}
+\def\reseteq{\setcounter{equation}{0}}
+\def\Avec{{(A_{1}, \ldots, A_{n})}}
+\def\Acup{{A_{1} \cup A_{2} \cup \cdots \cup A_{n}}}
+\def\crn{{\sqrt[3]{n}}}
+\def\ang{\angle}
+\def\ep{\epsilon}
+\def\dsp{\displaystyle}
+\def\oar{\overrightarrow}
+\newtheorem{lemma}{Lemma}
+
+%\newcounter{felist}
+%\def\bfe{\begin{list}{\alph{felist}}{\usecounter{fe}
+\def\bi{\begin{itemize}}
+\def\ei{\end{itemize}}
+\def\dd{\dots}
+\def\half{\frac{1}{2}}
+\def\sang{\sin \angle}
+
+
+\def\binom#1#2{{#1 \choose #2}}
+\def\bZ{\mathbb{Z}}
+
+\def\head#1{\begin{center} {\bf #1} \end{center}}
+
+\pagestyle{empty}
+\begin{document}
+%\input epsf
+
+\begin{center}
+${\bf 29^{th}}$ {\bf United States of America Mathematical Olympiad}
+\end{center}
+
+
+
+\begin{center}
+{\bf  Part  I \hspace{ 6mm} 9 a.m. -12 noon}
+\end{center}
+
+
+\begin{center}
+{\bf May 2, 2000}
+\end{center}
+
+\bigskip 
+
+
+\be
+\ii %PNN1
+Call a real-valued function $f$ {\em very convex} if
+\[
+\frac{f(x) + f(y)}{2} \ge f\Lp \frac{x+y}{2} \Rp + |x-y|
+\]
+holds for all real numbers $x$ and $y$. Prove that no very convex function exists.
+\vspace{5mm}
+
+\ii %AND1
+Let $S$ be the set of all triangles $ABC$ for which
+\[
+5\Lp \frac{1}{AP} + \frac{1}{BQ} + \frac{1}{CR} \Rp - \frac{3}{\min\{ AP, BQ, CR \}} =
+\frac{6}{r},
+\]
+where $r$ is the inradius and $P, Q, R$ are the points of tangency of the incircle with sides
+$AB, BC, CA,$ respectively. Prove that all triangles in $S$ are isosceles and similar to one
+another.
+\vspace{5mm}
+
+ 
+\ii %Stong3
+A game of solitaire is played with $R$ red cards, $W$ white cards, and $B$ blue cards. A player
+plays all the cards one at a time. With each play he accumulates a penalty. If he plays a blue
+card, then he is charged a penalty which is the number of white cards still in his hand. If he
+plays a white card, then he is charged a penalty which is twice the number of red cards still in
+his hand. If he plays a red card, then he is charged a penalty which is three times the number of
+blue cards still in his hand. Find, as a function of $R, W,$ and $B,$ the minimal total penalty
+a player can amass and all the ways in which this minimum can be achieved.
+
+\ee
+
+\vspace{80 mm}
+
+{\small
+\begin{center}
+Copyright \copyright \ \ Committee on the American  Mathematics  Competitions,\\
+Mathematical Association of America
+\end{center}
+}
+\newpage
+
+\begin{center}
+${\bf 29^{th}}$ {\bf United States of America Mathematical Olympiad}
+\end{center}
+
+
+
+\begin{center}
+{\bf  Part  II \hspace{ 6mm} 1 p.m. - 4 p.m.}
+\end{center}
+
+
+\begin{center}
+{\bf May 2, 2000}
+\end{center}
+
+\bigskip
+
+\be
+\ii[4.] %SOI4
+Find the smallest positive integer $n$ such that if $n$ squares of a $1000 \times 1000$ chessboard are
+colored, then there will exist three colored squares whose centers form a right triangle with sides
+parallel to the edges of the board.
+\vspace{5mm}
+
+\ii[5.] %KED2
+Let $A_1A_2A_3$ be a triangle and let $\omega_1$ be a circle in its plane passing through $A_1$ and
+$A_2.$ Suppose there exist circles $\omega_2, \omega_3, \dots, \omega_7$ such that for $k = 2, 3, \dots,
+7,$ $\omega_k$ is externally tangent to $\omega_{k-1}$ and passes through $A_k$ and $A_{k+1},$  where
+$A_{n+3} = A_{n}$ for all $n \ge 1$. Prove that $\omega_7 = \omega_1.$
+\vspace{5mm}
+
+\ii[6.] %AND3
+Let $a_1, b_1, a_2, b_2, \dots , a_n, b_n$ be nonnegative real numbers. Prove that
+\[
+\sum_{i, j = 1}^{n} \min\{a_ia_j, b_ib_j\} \le \sum_{i, j = 1}^{n} \min\{a_ib_j, a_jb_i\}.
+\] 
+
+\ee
+
+\vspace{120mm}
+{\small
+\begin{center}
+Copyright \copyright \ \  Committee on the American  Mathematics  Competitions,\\
+Mathematical Association of America
+\end{center}
+}
+\end{document}
+
+
+

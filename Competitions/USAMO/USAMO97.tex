@@ -1,0 +1,132 @@
+\documentclass[12pt]{article}
+\usepackage{amssymb, latexsym, amsmath, amsthm}
+\pagestyle{empty}
+\setlength{\oddsidemargin}{.15in}
+\setlength{\evensidemargin}{.15in}
+\setlength{\textwidth}{6in}
+\setlength{\textheight}{9.25in}
+\setlength{\topmargin}{.2in}
+\setlength{\headheight}{0in}
+\setlength{\headsep}{0in}
+\setlength{\parskip}{20pt}
+\setlength{\labelsep}{10pt}
+\setlength{\parindent}{0pt}
+\setlength{\medskipamount}{3ex} 
+\setlength{\smallskipamount}{1ex}
+\def\binom#1#2{{#1\choose#2}}
+\def\dg{\raisebox{.15pt}{$^{\circ}$}}
+\def\RR{{\Bbb R}}
+\newenvironment{List}{% 
+    \begin{list}{}{\setlength{\labelwidth}{.15in}
+    \setlength{\leftmargin}{.55in}
+    \setlength{\rightmargin}{.25in}
+    \setlength{\topsep}{0pt}
+    \setlength{\partopsep}{0pt} 
+    }}{\end{list}}
+\newtheorem{fact}{Proposition}
+\begin{document}
+
+\setlength{\baselineskip}{.24in}
+\begin{center}
+${\bf 26}^{\mbox{\bf th}}$ {\bf United States of America
+Mathematical Olympiad} \\[.1in]
+{\bf Part I \hspace{.25in} 9 a.m. - 12 noon}\\[.05in]
+{\bf May 1, 1997}
+\end{center}
+\begin{enumerate}
+
+\vspace*{.2in}
+
+\item %JOH2
+Let $p_1, p_2, p_3, \ldots$ be the prime numbers listed in
+increasing order, and let $x_0$ be a real number between 0
+and 1.  For positive integer $k$, define
+\[
+x_k = 
+\begin{cases}
+0 & \mbox{if} \; x_{k-1} = 0, \\[.1in]
+{\displaystyle \left\{ \frac{p_k}{x_{k-1}} \right\}} & 
+\mbox{if} \; x_{k-1} \neq 0,
+\end{cases}
+\]
+where $\{x\}$ denotes the fractional part of $x$.  (The fractional
+part of $x$ is given by $x - \lfloor x \rfloor$ where $\lfloor
+x \rfloor$ is the greatest integer less than or equal to $x$.)
+Find, with proof, all $x_0$ satisfying $0 < x_0 < 1$ 
+for which the sequence $x_0, x_1, x_2, \ldots $ eventually becomes
+0.
+
+\item %KED4
+Let $ABC$ be a triangle, and draw isosceles triangles
+$BCD, CAE, ABF$ externally to $ABC$, with $BC, CA, AB$ as their
+respective bases.  Prove that the lines through $A,B,C$
+perpendicular to the lines $\stackrel{\longleftrightarrow}{EF}, 
+\stackrel{\longleftrightarrow}{FD},
+\stackrel{\longleftrightarrow}{DE}$, 
+respectively, are concurrent.
+
+\item %KED1
+Prove that for any integer $n$, there exists a unique polynomial
+$Q$ with coefficients in $\{0,1,\ldots,9\}$ such that
+$Q(-2) = Q(-5) = n$.
+
+\end{enumerate}
+\vspace*{\fill}
+\begin{center}
+{\footnotesize Copyright \copyright \hspace{.05in} Committee on
+the American Mathematics Competitions, \\ 
+Mathematical Association of America}
+\end{center}
+
+\newpage
+\begin{center}
+${\bf 26}^{\mbox{\bf th}}$ {\bf United States of America
+Mathematical Olympiad} \\[.1in]
+{\bf Part II \hspace{.25in} 1 p.m. - 4 p.m.}\\[.05in]
+{\bf May 1, 1997}
+\end{center}
+
+\vspace*{.2in}
+
+\begin{enumerate}
+\setcounter{enumi}{3}
+
+\item %PNN1 
+To {\em clip} a convex $n$-gon means to choose a pair of
+consecutive sides $AB, BC$ and to replace them by the three
+segments $AM, MN$, and $NC$, where $M$ is the midpoint of $AB$
+and $N$ is the midpoint of $BC$.  In other words, one cuts off the
+triangle $MBN$ to obtain a convex $(n+1)$-gon.  A regular hexagon
+${\cal P}_6$ of area 1 is clipped to obtain a heptagon ${\cal
+P}_7$.  Then ${\cal P}_7$ is clipped (in one of the seven possible
+ways) to obtain an octagon ${\cal P}_8$, and so on.  Prove that no
+matter how the clippings are done, the area of ${\cal P}_n$ is
+greater than $1/3$, for all $n \geq 6$.
+
+\item %AND3
+Prove that, for all positive real numbers $a,b,c$,
+\[
+(a^3 + b^3 + abc)^{-1} + (b^3 + c^3 + abc)^{-1} 
++ (c^3 + a^3 + abc)^{-1} \leq (abc)^{-1}.
+\]
+
+\item %PRO1
+Suppose the sequence of nonnegative integers 
+$a_1, a_2, \ldots, a_{1997}$ satisfies 
+\[
+a_i + a_j \leq a_{i+j} \leq a_i + a_j + 1
+\]
+for all $i,j \geq 1$ with $i + j \leq 1997$.  Show that there
+exists a real number $x$ such that $a_n = \lfloor nx \rfloor$ 
+(the greatest integer $\leq nx$) for all $1 \leq n \leq 1997$.
+
+
+\end{enumerate}
+\vspace*{\fill}
+\begin{center}
+{\footnotesize Copyright \copyright \hspace{.05in} Committee on
+the American Mathematics Competitions, \\ 
+Mathematical Association of America}
+\end{center}
+\end{document}
+

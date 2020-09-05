@@ -1,0 +1,177 @@
+\documentclass[12pt]{article}
+\usepackage{amsfonts}
+
+\setlength{\textheight}{9.25in}
+\setlength{\textwidth}{6.5in}
+\setlength{\topmargin}{0.0in}
+\setlength{\headheight}{0.0in}
+\setlength{\headsep}{0.0in}
+\setlength{\leftmargin}{0.0in}
+\setlength{\oddsidemargin}{0.0in}
+\setlength{\parindent}{1pc}
+
+\def\binom#1#2{{#1 \choose #2}}
+\def\mymod#1{\,(\mbox{mod}\,\, #1)}
+\def\pmatrix#1{\left( \begin{array}{ccc} #1 \end{array} \right)}
+%Structural macros
+\def\head#1{{\bf \noindent \newline #1:  } \nopagebreak}
+\def\map#1#2#3{#1\!: #2\to #3}
+\def\benum{\begin{enumerate}}
+\def\eenum{\end{enumerate}}
+\def\soln{\head{Solution}}
+\def\first{\head{First Solution}}
+\def\second{{\bf \noindent \newline Second Solution:  } \nopagebreak}
+\def\third{{\bf \noindent \newline Third Solution:  } \nopagebreak}
+\def\note{{\bf \noindent \newline Note:  } \nopagebreak}
+\def\be{\begin{enumerate}}
+\def\ee{\end{enumerate}}
+\def\beq{\begin{equation}}
+\def\eeq{\end{equation}}
+\def\beqa{\begin{eqnarray*}}
+\def\eeqa{\end{eqnarray*}}
+\def\bea{\begin{array}}
+\def\eea{\end{array}}
+\def\ii{\item}
+\def\ds{\dsp}
+\def\seqa{a_{1}, \dots, a_{n}}
+\def\seqb{b_{1}, \dots, b_{n}}
+\def\seqx{x_{1}, \dots, x_{n}}
+\def\lf{\lfloor}
+\def\rf{\rfloor}
+\def\Lp{\left(}
+\def\Rp{\right)}
+\def\L[{\left[}
+\def\R]{\right]}
+\def\alf{\alpha}
+\def\lcm{\mbox{lcm}}
+\def\reseteq{\setcounter{equation}{0}}
+\def\Avec{{(A_{1}, \ldots, A_{n})}}
+\def\Acup{{A_{1} \cup A_{2} \cup \cdots \cup A_{n}}}
+\def\crn{{\sqrt[3]{n}}}
+\def\ang{\angle}
+\def\ep{\epsilon}
+\def\dsp{\displaystyle}
+\def\oar{\overrightarrow}
+\newtheorem{lemma}{Lemma}
+
+%\newcounter{felist}
+%\def\bfe{\begin{list}{\alph{felist}}{\usecounter{fe}
+\def\bi{\begin{itemize}}
+\def\ei{\end{itemize}}
+\def\dd{\dots}
+\def\half{\frac{1}{2}}
+\def\sang{\sin \angle}
+
+
+\def\binom#1#2{{#1 \choose #2}}
+\def\bZ{\mathbb{Z}}
+\def\st{^{\scriptstyle\mbox{st}}}
+
+\def\head#1{\begin{center} {\bf #1} \end{center}}
+
+\pagestyle{empty}
+\begin{document}
+%\input epsf
+
+\begin{center}
+${\bf 31\st}$ {\bf United States of America Mathematical Olympiad}
+\\[.1in]
+{\bf Cambridge, Massachusetts}\\[.05in]
+{\bf Part I \hspace{.25in}  1 p.m. - 5:30 p.m.}\\[.05in]
+{\bf May 3, 2002}
+\end{center}
+
+\bigskip 
+
+\be
+\ii %CAR1
+Let $S$ be a set with 2002 elements, and let $N$ be an integer with
+$0 \leq N \leq 2^{2002}$. Prove that it is possible to color every
+subset of $S$ either black or white so that the following conditions
+hold:
+\begin{enumerate}
+\item[(a)] the union of any two white subsets is white;
+\item[(b)] the union of any two black subsets is black;
+\item[(c)] there are exactly $N$ white subsets.
+\end{enumerate}
+
+\ii %AND1
+Let $ABC$ be a triangle such that
+\[
+\left( \cot \frac{A}{2} \right)^2 +
+\left( 2\cot \frac{B}{2} \right)^2 +
+\left( 3\cot \frac{C}{2} \right)^2 =
+ \left( \frac{6s}{7r} \right)^2,
+\]
+where $s$ and $r$ denote its semiperimeter and its inradius, respectively.
+Prove that triangle $ABC$ is similar to a triangle $T$ whose side lengths
+are all positive integers with no common divisors and
+determine these integers.
+
+\ii %STG1
+Prove that any monic polynomial (a polynomial with leading coefficient 1)
+of degree $n$ with real coefficients is the average of two monic polynomials
+of degree $n$ with $n$ real roots.
+
+\end{enumerate}
+
+\vspace{80 mm}
+
+{\small
+\begin{center}
+Copyright \copyright \ \ Committee on the American  Mathematics  Competitions,\\
+Mathematical Association of America
+\end{center}
+}
+\newpage
+
+\begin{center}
+${\bf 31\st}$ {\bf United States of America Mathematical Olympiad}
+\\[.1in]
+{\bf Cambridge, Massachusetts}\\[.05in]
+{\bf Part II \hspace{.25in}  1 p.m. - 5:30 p.m.}\\[.05in]
+{\bf May 4, 2002}
+\end{center}
+
+\bigskip
+
+\be
+\ii[4.] %FEN3
+Let $\mathbb{R}$ be the set of real numbers. Determine all functions
+$f: \mathbb{R} \to \mathbb{R}$ such that
+\[
+f(x^2 - y^2) = x f(x) - y f(y)
+\]
+for all pairs of real numbers $x$ and $y$.
+
+\ii[5.] %CAR2
+Let $a,b$ be integers greater than 2. Prove that there exists a positive
+integer $k$ and a finite sequence $n_1, n_2, \dots, n_k$ of positive
+integers such that $n_1 = a$, $n_k = b$, and $n_i n_{i+1}$
+is divisible by $n_i + n_{i+1}$ for each $i$ ($1 \leq i < k$).
+
+\ii[6.] %KED3
+I have an $n \times n$ sheet of stamps, from which I've been asked to tear 
+out blocks of three adjacent stamps in a single row or column. (I can only
+tear along the perforations separating adjacent stamps, and each block
+must come out of the sheet in one piece.) Let $b(n)$ be the smallest number
+of blocks I can tear out and make it impossible to tear out any more
+blocks. Prove that there are real constants $c$ and $d$ such that
+\[
+\frac{1}{7} n^2 - cn \leq b(n) \leq \frac{1}{5} n^2 + dn
+\]
+for all $n > 0$.
+
+\end{enumerate}
+
+\vspace{80mm}
+{\small
+\begin{center}
+Copyright \copyright \ \  Committee on the American  Mathematics  Competitions,\\
+Mathematical Association of America
+\end{center}
+}
+\end{document}
+
+
+

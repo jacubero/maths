@@ -1,0 +1,171 @@
+\documentclass[12pt]{article}
+\usepackage{amsfonts}
+
+\setlength{\textheight}{9.25in}
+\setlength{\textwidth}{6.5in}
+\setlength{\topmargin}{0.0in}
+\setlength{\headheight}{0.0in}
+\setlength{\headsep}{0.0in}
+\setlength{\leftmargin}{0.0in}
+\setlength{\oddsidemargin}{0.0in}
+\setlength{\parindent}{1pc}
+
+\def\binom#1#2{{#1 \choose #2}}
+\def\mymod#1{\,(\mbox{mod}\,\, #1)}
+\def\pmatrix#1{\left( \begin{array}{ccc} #1 \end{array} \right)}
+%Structural macros
+\def\head#1{{\bf \noindent \newline #1:  } \nopagebreak}
+\def\map#1#2#3{#1\!: #2\to #3}
+\def\benum{\begin{enumerate}}
+\def\eenum{\end{enumerate}}
+\def\soln{\head{Solution}}
+\def\first{\head{First Solution}}
+\def\second{{\bf \noindent \newline Second Solution:  } \nopagebreak}
+\def\third{{\bf \noindent \newline Third Solution:  } \nopagebreak}
+\def\note{{\bf \noindent \newline Note:  } \nopagebreak}
+\def\be{\begin{enumerate}}
+\def\ee{\end{enumerate}}
+\def\beq{\begin{equation}}
+\def\eeq{\end{equation}}
+\def\beqa{\begin{eqnarray*}}
+\def\eeqa{\end{eqnarray*}}
+\def\bea{\begin{array}}
+\def\eea{\end{array}}
+\def\ii{\item}
+\def\ds{\dsp}
+\def\seqa{a_{1}, \dots, a_{n}}
+\def\seqb{b_{1}, \dots, b_{n}}
+\def\seqx{x_{1}, \dots, x_{n}}
+\def\lf{\lfloor}
+\def\rf{\rfloor}
+\def\Lp{\left(}
+\def\Rp{\right)}
+\def\L[{\left[}
+\def\R]{\right]}
+\def\alf{\alpha}
+\def\lcm{\mbox{lcm}}
+\def\reseteq{\setcounter{equation}{0}}
+\def\Avec{{(A_{1}, \ldots, A_{n})}}
+\def\Acup{{A_{1} \cup A_{2} \cup \cdots \cup A_{n}}}
+\def\crn{{\sqrt[3]{n}}}
+\def\ang{\angle}
+\def\ep{\epsilon}
+\def\dsp{\displaystyle}
+\def\oar{\overrightarrow}
+\newtheorem{lemma}{Lemma}
+
+%\newcounter{felist}
+%\def\bfe{\begin{list}{\alph{felist}}{\usecounter{fe}
+\def\bi{\begin{itemize}}
+\def\ei{\end{itemize}}
+\def\dd{\dots}
+\def\half{\frac{1}{2}}
+\def\sang{\sin \angle}
+
+
+\def\binom#1#2{{#1 \choose #2}}
+\def\bZ{\mathbb{Z}}
+\def\th{^{\scriptstyle\mbox{th}}}
+
+\def\head#1{\begin{center} {\bf #1} \end{center}}
+
+\pagestyle{empty}
+\begin{document}
+%\input epsf
+
+\begin{center}
+${\bf 30\th}$ {\bf United States of America Mathematical Olympiad}
+\\[.1in]
+{\bf Part I \hspace{.25in}  9 a.m. - 12 p.m.}\\[.05in]
+{\bf May 1, 2001}
+\end{center}
+
+\bigskip 
+
+\be
+\ii %KED5
+Each of eight boxes contains six balls. Each ball has been colored with
+one of $n$ colors, such that no two balls in the same box are the same
+color, and no two colors occur together in more than one box. Determine,
+with justification, the smallest integer $n$ for which this is possible.
+
+
+\ii %FEN2
+Let $ABC$ be a triangle and let $\omega$ be its incircle. Denote by
+$D_1$ and $E_1$ the points where $\omega$ is tangent to sides $BC$ and
+$AC$, respectively. Denote by $D_2$ and $E_2$ the points on sides $BC$
+and $AC$, respectively, such that $CD_2=BD_1$ and $CE_2=AE_1$, and
+denote by $P$ the point of intersection of segments $AD_2$ and $BE_2$.
+Circle $\omega$ intersects segment $AD_2$ at two points, the closer of
+which to the vertex $A$ is denoted by $Q$. Prove that $AQ=D_2P$.
+ 
+\ii %AND2
+Let $a, b$, and $c$ be nonnegative real numbers such that
+\[
+a^2+b^2+c^2 + abc = 4.
+\]
+Prove that
+\[
+0\le ab+bc+ca-abc \le 2.
+\]
+
+\ee
+
+\vspace{80 mm}
+
+{\small
+\begin{center}
+Copyright \copyright \ \ Committee on the American  Mathematics  Competitions,\\
+Mathematical Association of America
+\end{center}
+}
+\newpage
+
+\begin{center}
+${\bf 30\th}$ {\bf United States of America Mathematical Olympiad}
+\\[.1in]
+{\bf Part II \hspace{.25in}  1 p.m. - 4 p.m.}\\[.05in]
+{\bf May 1, 2001}
+\end{center}
+
+\bigskip
+
+\be
+\ii[4.] %AND3
+Let $P$ be a point in the plane of triangle $ABC$ such that the segments
+$PA$, $PB$, and $PC$ are the sides of an obtuse triangle. Assume that
+in this triangle the obtuse angle opposes the side congruent to $PA$.
+Prove that $\angle BAC$ is acute. 
+
+\ii[5.] %PNN2
+Let $S$ be a set of integers (not necessarily positive) such that
+\begin{itemize}
+\ii
+[(a)]
+there exist $a,b \in S$ with $\gcd(a,b)=\gcd(a-2,b-2)=1$;
+\ii
+[(b)]
+if $x$ and $y$ are elements of $S$ (possibly equal), then $x^2-y$
+also belongs to $S$.
+\end{itemize}
+Prove that $S$ is the set of all integers.
+
+\ii[6.] %PNN1
+Each point in the plane is assigned a real number such that, for any
+triangle, the number at the center of its inscribed circle is equal to
+the arithmetic mean of the three numbers at its vertices. Prove that
+all points in the plane are assigned the same number.
+
+\ee
+
+\vspace{120mm}
+{\small
+\begin{center}
+Copyright \copyright \ \  Committee on the American  Mathematics  Competitions,\\
+Mathematical Association of America
+\end{center}
+}
+\end{document}
+
+
+
