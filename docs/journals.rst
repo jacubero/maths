@@ -47,11 +47,11 @@ Crux Mathematicorum
 
       - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Crux/CRUXv46n7.pdf>`_
 
-      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Crux/CRUXv46n8.pdf>`_
+      - 
 
-      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Crux/CRUXv46n9.pdf>`_
+      - 
 
-      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Crux/CRUXv46n10.pdf>`_
+      - 
 
     * - 45 (2019)
 
