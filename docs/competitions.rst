@@ -15,11 +15,17 @@ International Mathematical Olympiad
 
       - Shortlist
 
+    * - 2020
+
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2020.pdf>`_
+
+      - 
+
     * - 2019
 
       - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/2019.pdf>`_
 
-      - 
+      - `PDF <https://github.com/jacubero/maths/blob/master/Competitions/IMO/IMO2019SL.pdf>`_
 
     * - 2018
 
