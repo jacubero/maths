@@ -21,6 +21,8 @@ YouTube channels
 
 * `Dr Peyam <https://www.youtube.com/channel/UCoOjTxz-u5zU0W38zMkQIFw>`_
 
+* `Zach Star <https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w>`_
+
 * `Essentials Of Math <https://www.youtube.com/channel/UCzBRotdJS3bJPcUZyePkHBw>`_
 
 * `Cyclic National Competitive Math Group <https://cncmath.org/>`_
