@@ -1,0 +1,39 @@
+--2020-10-10 11:28:46--  https://olympiads.hbcse.tifr.res.in/olympiads/wp-content/uploads/2016/09/inmo-sol-2000.pdf
+Resolving olympiads.hbcse.tifr.res.in (olympiads.hbcse.tifr.res.in)... 158.144.42.104, 2406:f00:2:1::104
+Connecting to olympiads.hbcse.tifr.res.in (olympiads.hbcse.tifr.res.in)|158.144.42.104|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 43782 (43K) [application/pdf]
+Saving to: ‘inmo-sol-2000.pdf’
+
+
+
+2020-10-10 11:28:49 (71.0 KB/s) - ‘inmo-sol-2000.pdf’ saved [43782/43782]
+
+--2020-10-10 11:28:49--  https://olympiads.hbcse.tifr.res.in/olympiads/wp-content/uploads/2016/09/inmo-sol-2001.pdf
+Reusing existing connection to olympiads.hbcse.tifr.res.in:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 59388 (58K) [application/pdf]
+Saving to: ‘inmo-sol-2001.pdf’
+
+
+
+2020-10-10 11:28:51 (71.7 KB/s) - ‘inmo-sol-2001.pdf’ saved [59388/59388]
+
+--2020-10-10 11:28:51--  https://olympiads.hbcse.tifr.res.in/olympiads/wp-content/uploads/2016/09/inmo-sol-2002.pdf
+Reusing existing connection to olympiads.hbcse.tifr.res.in:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-10-10 12:39:19 ERROR 404: Not Found.
+
+--2020-10-10 12:39:19--  https://olympiads.hbcse.tifr.res.in/olympiads/wp-content/uploads/2016/09/inmo-sol-2003.pdf
+Connecting to olympiads.hbcse.tifr.res.in (olympiads.hbcse.tifr.res.in)|158.144.42.104|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-10-10 12:39:22 ERROR 404: Not Found.
+
+--2020-10-10 12:39:22--  https://olympiads.hbcse.tifr.res.in/olympiads/wp-content/uploads/2016/09/inmo-sol-2004.pdf
+Reusing existing connection to olympiads.hbcse.tifr.res.in:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-10-10 12:39:24 ERROR 404: Not Found.
+
+--2020-10-10 12:39:24--  https://olympiads.hbcse.tifr.res.in/olympiads/wp-content/uploads/2016/09/inmo-sol-2005.pdf
+Reusing existing connection to olympiads.hbcse.tifr.res.in:443.
+HTTP request sent, awaiting response... 

@@ -74,6 +74,8 @@ Miscellaneous
 
 * `Calculus for Beginners and Artists <http://www-math.mit.edu/~djk/calculus_beginners/>`_
 
+* `10+ Beautiful Mathematical Documentaries to Make Students Love Math <https://abakcus.com/10-beautiful-mathematical-documentaries-to-make-students-love-math/>`_
+
 Olympiads
 ---------
 
@@ -81,6 +83,7 @@ Olympiads
 
 * `Olympiad Training Materials <https://www.imomath.com/index.php?options=257&lmm=1>`_
 
+* `Geometry Problems from IMOs <https://imogeometry.blogspot.com/p/blog-page_2.html>`_
 
 Probability
 -----------
@@ -88,6 +91,8 @@ Probability
 * `Introduction to Probability, Statistics, and Random Processes <https://www.probabilitycourse.com/>`_
 
 * `STAT 400: Statistics and Probability I <https://daviddalpiaz.github.io/stat400fa17/>`_
+
+* `Statistics Exams With Solutions <http://www.examswithsolutions.com/Subjects/statistics.html>`_
 
 Latex
 -----
