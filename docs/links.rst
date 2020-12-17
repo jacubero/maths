@@ -85,6 +85,26 @@ Olympiads
 
 * `Geometry Problems from IMOs <https://imogeometry.blogspot.com/p/blog-page_2.html>`_
 
+Abstract algebra
+----------------
+
+* `Videos: Socratica Abstract Algebra Playlist <https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6>`_
+
+Complex analysis
+----------------
+
+* `Videos: Wesleyan University Playlist <https://www.youtube.com/playlist?list=PL_onPhFCkVQjdQTbG0eQk42eH0RaBoYJf>`_
+
+Differential geometry
+---------------------
+
+* `Videos: WhyBMaths <https://www.youtube.com/watch?v=RW5lJiKZHd8&list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl>`_
+
+Linear Algebra
+--------------
+
+* `Videos: Sheldon Axler’s Playlist <https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw>`_
+
 Probability
 -----------
 
@@ -93,6 +113,20 @@ Probability
 * `STAT 400: Statistics and Probability I <https://daviddalpiaz.github.io/stat400fa17/>`_
 
 * `Statistics Exams With Solutions <http://www.examswithsolutions.com/Subjects/statistics.html>`_
+
+Real Analysis
+-------------
+
+* `Videos: MAT137 Playlist <https://www.youtube.com/channel/UCLzpR8AiHx9h_-yt2fAxd_A/playlists>`_
+
+Topology
+--------
+
+* `Online Notes with Problems: MAT327 Course Notes <http://www.math.toronto.edu/ivan/mat327/?resources>`_
+
+* `Videos: Point Set Topology Playlist <https://www.youtube.com/playlist?list=PLbMVogVj5nJRR7zYZifYopb52zjoScx1d>`_
+
+* `Topology Playlist <https://www.youtube.com/playlist?list=PL41FDABC6AA085E78>`_
 
 Latex
 -----
