@@ -55,26 +55,29 @@ India
 
 * `UNION PUBLIC SERVICE COMMISSION <https://www.upsc.gov.in/examinations/previous-question-papers>`_
 
-Miscellaneous
--------------
+Exams
+-----
 
-* `College Algebra <https://courses.lumenlearning.com/waymakercollegealgebra/>`_
-
-* `Interactive Mathematics Miscellany and Puzzles <https://www.cut-the-knot.org/>`_
-
-* `Math121 <http://www.mscs.mu.edu/~paulb/Courses/Math121/>`_
+* `Mathematics Exams <https://tbp.berkeley.edu/courses/math/>`_
 
 * `Problems in Mathematics <https://yutsumura.com/>`_
 
 * `Mathematics Exams With Solutions <http://www.examswithsolutions.com/Subjects/math_exams.html>`_
 
+Miscellaneous
+-------------
+
+* `Interactive Mathematics Miscellany and Puzzles <https://www.cut-the-knot.org/>`_
+
+* `Math121 <http://www.mscs.mu.edu/~paulb/Courses/Math121/>`_
+
 * `Wolfram Alpha <https://www.wolframalpha.com/>`_
 
 * `All Maths calculators <https://www.emathhelp.net/calculators/>`_
 
-* `Calculus for Beginners and Artists <http://www-math.mit.edu/~djk/calculus_beginners/>`_
-
 * `10+ Beautiful Mathematical Documentaries to Make Students Love Math <https://abakcus.com/10-beautiful-mathematical-documentaries-to-make-students-love-math/>`_
+
+* `American Institute of Mathematics Approved Textbooks <https://aimath.org/textbooks/approved-textbooks/>`_
 
 Olympiads
 ---------
@@ -100,10 +103,17 @@ Differential geometry
 
 * `Videos: WhyBMaths <https://www.youtube.com/watch?v=RW5lJiKZHd8&list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl>`_
 
+Geometry
+--------
+
+* `Relation between area of a quadrilateral and an associated triangle <https://math.stackexchange.com/questions/2102762/relation-between-area-of-a-quadrilateral-and-an-associated-triangle>`_
+
 Linear Algebra
 --------------
 
 * `Videos: Sheldon Axler’s Playlist <https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw>`_
+
+* `College Algebra <https://courses.lumenlearning.com/waymakercollegealgebra/>`_
 
 Probability
 -----------
@@ -118,6 +128,8 @@ Real Analysis
 -------------
 
 * `Videos: MAT137 Playlist <https://www.youtube.com/channel/UCLzpR8AiHx9h_-yt2fAxd_A/playlists>`_
+
+* `Calculus for Beginners and Artists <http://www-math.mit.edu/~djk/calculus_beginners/>`_
 
 Topology
 --------

@@ -1,6 +1,8 @@
 Mathematics journals
 ====================
 
+`MATHPROBLEMS JOURNAL <http://www.mathproblems-ks.org/?page_id=14>`_
+
 Crux Mathematicorum
 -------------------
 
@@ -49,7 +51,7 @@ Crux Mathematicorum
 
       - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Crux/CRUXv46n8.pdf>`_
 
-      - 
+      - `PDF <https://github.com/jacubero/maths/blob/master/Journals/Crux/CRUXv46n9.pdf>`_
 
       - 
 
