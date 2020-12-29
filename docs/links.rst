@@ -79,6 +79,8 @@ Miscellaneous
 
 * `American Institute of Mathematics Approved Textbooks <https://aimath.org/textbooks/approved-textbooks/>`_
 
+* `Teaching Materials <http://www.math.udel.edu/~lazebnik/Info/teaching.html>`_
+
 Olympiads
 ---------
 
