@@ -21,6 +21,8 @@ YouTube channels
 
 * `Dr Peyam <https://www.youtube.com/channel/UCoOjTxz-u5zU0W38zMkQIFw>`_
 
+* `Shefs of Problem Solving <https://www.youtube.com/channel/UCGnDWH8_ClXegQkWnbzDnzA>`_
+
 * `Zach Star <https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w>`_
 
 * `Essentials Of Math <https://www.youtube.com/channel/UCzBRotdJS3bJPcUZyePkHBw>`_
