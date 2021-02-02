@@ -71,6 +71,8 @@ Miscellaneous
 
 * `Interactive Mathematics Miscellany and Puzzles <https://www.cut-the-knot.org/>`_
 
+* `TIMES Modules <http://schools.amsi.org.au/times-modules/>`_
+
 * `Math121 <http://www.mscs.mu.edu/~paulb/Courses/Math121/>`_
 
 * `Wolfram Alpha <https://www.wolframalpha.com/>`_
