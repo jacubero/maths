@@ -21,11 +21,25 @@ YouTube channels
 
 * `Dr Peyam <https://www.youtube.com/channel/UCoOjTxz-u5zU0W38zMkQIFw>`_
 
+* `GG Maths <https://www.youtube.com/channel/UCZWoiVVe1Zby5j1s5H9eI4A>`_
+
+* `letsthinkcritically <https://www.youtube.com/channel/UCT-QRRiYoza5rRDCKNdYdhg>`_
+
 * `Shefs of Problem Solving <https://www.youtube.com/channel/UCGnDWH8_ClXegQkWnbzDnzA>`_
+
+* `tahiri math science online teaching <https://www.youtube.com/channel/UCBzwB0G4g1EuLjQjmG5yyAA>`_
 
 * `Zach Star <https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w>`_
 
 * `Essentials Of Math <https://www.youtube.com/channel/UCzBRotdJS3bJPcUZyePkHBw>`_
+
+* `blackpenredpen <https://www.youtube.com/user/blackpenredpen>`_
+
+* `Geometry Now <https://www.youtube.com/channel/UCs9BvXXW7py7Ir6dlDe0MqQ>`_
+
+* `Axel_math <https://www.youtube.com/channel/UCNu0YhLE0Jg8Pzk3cAujIFA>`_
+
+* `MyPrepa News <https://www.youtube.com/channel/UCljJd-kb3nR2NCzmeYmu58w>`_
 
 * `Cyclic National Competitive Math Group <https://cncmath.org/>`_
 
@@ -40,6 +54,13 @@ YouTube channels
 * `Numberphile <https://www.youtube.com/user/numberphile>`_
 
 * `Welch Labs <https://www.youtube.com/channel/UConVfxXodg78Tzh5nNu85Ew>`_
+
+* `Jos Leys <https://www.youtube.com/user/josleys>`_
+
+* `JorgeMorra <https://www.youtube.com/user/srmorrajorge>`_
+
+* `LOGICALLY YOURS <https://www.youtube.com/channel/UCTRxnMudmOGNw0g4gZf5D8g>`_
+
 
 France
 ------
