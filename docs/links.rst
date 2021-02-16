@@ -78,6 +78,11 @@ India
 
 * `UNION PUBLIC SERVICE COMMISSION <https://www.upsc.gov.in/examinations/previous-question-papers>`_
 
+UK
+--
+
+* `MAT, TMUA and STEP <https://warwick.ac.uk/fac/sci/maths/admissions/ug/aeastep/>`_
+
 Exams
 -----
 
@@ -105,6 +110,8 @@ Miscellaneous
 * `American Institute of Mathematics Approved Textbooks <https://aimath.org/textbooks/approved-textbooks/>`_
 
 * `Teaching Materials <http://www.math.udel.edu/~lazebnik/Info/teaching.html>`_
+
+* `The Ramanujan Machine <http://www.ramanujanmachine.com/>`_
 
 Olympiads
 ---------
