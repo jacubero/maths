@@ -83,6 +83,14 @@ UK
 
 * `MAT, TMUA and STEP <https://warwick.ac.uk/fac/sci/maths/admissions/ug/aeastep/>`_
 
+* `GCE Guide Papers Section <https://papers.gceguide.com/>`_
+
+* `Prepare for University <https://nrich.maths.org/university>`_
+
+* `A Level Exam Papers (Edexcel) <https://www.mathsgenie.co.uk/alevelpapers.html>`_
+
+* `GCE A level books <https://www.quora.com/What-are-the-books-I-should-study-to-get-an-A%2A-in-the-GCE-A-level/answer/Mubashir-Anwar-2>`_
+
 Exams
 -----
 
@@ -173,6 +181,11 @@ Topology
 * `Videos: Point Set Topology Playlist <https://www.youtube.com/playlist?list=PLbMVogVj5nJRR7zYZifYopb52zjoScx1d>`_
 
 * `Topology Playlist <https://www.youtube.com/playlist?list=PL41FDABC6AA085E78>`_
+
+Trigonometry
+------------
+
+* `Dave Short Trig Course <https://www2.clarku.edu/faculty/djoyce/trig/>`_
 
 Latex
 -----
