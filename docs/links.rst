@@ -121,6 +121,10 @@ Miscellaneous
 
 * `The Ramanujan Machine <http://www.ramanujanmachine.com/>`_
 
+* `Mathproblems <http://mathproblems.info/working.php#s53>`_
+
+* `Free and Open-Source Textbooks <http://danaernst.com/resources/free-and-open-source-textbooks/>`_
+
 Olympiads
 ---------
 
@@ -130,10 +134,21 @@ Olympiads
 
 * `Geometry Problems from IMOs <https://imogeometry.blogspot.com/p/blog-page_2.html>`_
 
+* `Libro de problemas de olimpiada matemática <https://thales.cica.es/rd/Recursos/rd98/Matematicas/28/ejercicios/>`_
+
 Abstract algebra
 ----------------
 
 * `Videos: Socratica Abstract Algebra Playlist <https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6>`_
+
+* `Dual spaces <https://youtu.be/OGO3HGlOQO4>`_
+
+Combinatorics
+-------------
+
+* `A devilishly difficult exam question given to Turkish students <https://www.youtube.com/watch?v=jGNcQa3ioqA>`_
+
+* `El discreto encanto de la matemática <https://verso.mat.uam.es/~pablo.fernandez/md.htm>`_
 
 Complex analysis
 ----------------
@@ -157,6 +172,13 @@ Linear Algebra
 
 * `College Algebra <https://courses.lumenlearning.com/waymakercollegealgebra/>`_
 
+Number Theory
+-------------
+
+* `Two very important functions are built into this solution <https://www.youtube.com/watch?v=6DUffWdLiQI>`_
+
+* `Number Theory <https://web.math.pmf.unizg.hr/~duje/numbertheorybook.html>`_
+
 Probability
 -----------
 
@@ -166,12 +188,16 @@ Probability
 
 * `Statistics Exams With Solutions <http://www.examswithsolutions.com/Subjects/statistics.html>`_
 
+* `PROBLEMAS DE PROBABILIDADES (II). EXTRACCIONES EN URNAS <https://vicmat.com/problemas-probabilidades-ii-extracciones-urnas/>`_
+
 Real Analysis
 -------------
 
 * `Videos: MAT137 Playlist <https://www.youtube.com/channel/UCLzpR8AiHx9h_-yt2fAxd_A/playlists>`_
 
 * `Calculus for Beginners and Artists <http://www-math.mit.edu/~djk/calculus_beginners/>`_
+
+* `Cauchy's Proof of the Basel Problem Pi Squared Over Six <https://www.youtube.com/watch?v=2jgtAo3ZtfI>`_
 
 Topology
 --------
@@ -197,3 +223,5 @@ Latex
 * `Euclid's algorithm: An example of how to write algorithms in LaTeX <https://www.overleaf.com/latex/examples/euclids-algorithm-an-example-of-how-to-write-algorithms-in-latex/mbysznrmktqf>`_
 
 * `PGFPlots Gallery <http://pgfplots.sourceforge.net/gallery.html>`_
+
+* `How to Plot a Function and Data in LaTeX <https://latexdraw.com/plot-a-function-and-data-in-latex/>`_
