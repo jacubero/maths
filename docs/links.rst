@@ -143,6 +143,8 @@ Abstract algebra
 
 * `Dual spaces <https://youtu.be/OGO3HGlOQO4>`_
 
+* `Basis of Dual spaces <https://math.stackexchange.com/questions/3793490/trouble-understanding-the-basics-of-a-dual-space-and-solving-for-its-basis-exa>`_
+
 Combinatorics
 -------------
 
