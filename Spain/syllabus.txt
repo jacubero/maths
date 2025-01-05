@@ -13,7 +13,7 @@
 13.	Polynomials. Operations. Newton's formula. Divisibility of polynomials. Algebraic fractions.
 14.	Equations. Solving equations. Numerical approximation of roots
 15.	Diophantine equations.
-16.	Discussion and solution of systems of linear equations. Rouche's theorem. Cramel's rule. Gauss-Jordan method.
+16.	Discussion and solution of systems of linear equations. Rouche's theorem. Cramer's rule. Gauss-Jordan method.
 17.	Linear programming. Applications.
 18.	Matrices. Matrix algebra. Applications to the field of Social and Natural Sciences.
 19.	Determinants. Properties. Application to the calculation of the rank of a matrix.
