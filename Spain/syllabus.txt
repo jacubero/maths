@@ -1,0 +1,71 @@
+1.	Natural numbers. Numeral systems.
+2.	Fundamentals and applications of graph theory. Tree diagrams.
+3.	Counting techniques. Combinatorics.
+4.	Integers. Divisibility. Prime numbers. Congruence.
+5.	Rational numbers.
+6.	Real numbers. Topology of the real line.
+7.	Approximation of numbers. Errors. Scientific notation.
+8.	Sequences. General terms and recurrent form. Arithmetic and geometric progressions. Applications.
+9.	Complex numbers. Geometric applications.
+10.	Successive extensions of the concept of number. Historical evolution and problems solved by each one.
+11.	Basic concepts of set theory. Algebraic structures.
+12.	Vector spaces. Linear varieties. Applications between vector spaces. Isomorphism theorem.
+13.	Polynomials. Operations. Newton's formula. Divisibility of polynomials. Algebraic fractions.
+14.	Equations. Solving equations. Numerical approximation of roots
+15.	Diophantine equations.
+16.	Discussion and solution of systems of linear equations. Rouche's theorem. Cramel's rule. Gauss-Jordan method.
+17.	Linear programming. Applications.
+18.	Matrices. Matrix algebra. Applications to the field of Social and Natural Sciences.
+19.	Determinants. Properties. Application to the calculation of the rank of a matrix.
+20.	Algebraic language. Symbols and numbers. Importance of its development and problems it solves. Historical evolution of algebra.
+21.	Real functions of real variable. Elementary functions; real situations in which they appear. Composition of functions.
+22.	Exponential and logarithmic functions. Real situations in which they appear.
+23.	Circular and hyperbolic functions and their reciprocals. Real situations in which they appear.
+24.	Functions given in tabular form. Polynomial interpolation. Interpolation and extrapolation of data.
+25.	Limits of functions. Continuity and discontinuities Bolzano's theorem Infinite branches
+26.	Derivative of a function at a point. Derivative function. Successive derivatives. Applications.
+27.	Development of a function in power series. Taylor's theorem. Applications to the local study of functions.
+28.	Global study of functions. Applications to the graphical representation of functions.
+29.	The problem of calculating the area. Definite integral.
+30.	Primitive of a function. Calculation of some primitives. Applications of the integral to the calculation of geometric quantities.
+31.	Numerical integration. Methods and applications.
+32.	Application of the study of functions to the interpretation and resolution of problems in Economics, Social Sciences and Nature.
+33.	Historical evolution of differential calculus.
+34.	Analysis and formalization of intuitive geometric concepts: incidence, parallelism, perpendicularity, angles, etc.
+35.	Magnitudes and their measurement. Foundation of the concepts related to them.
+36.	Remarkable proportions. The golden ratio. Applications.
+37.	The ratio of similarity in the plane. Consequences. Thales' theorem. Trigonometric ratios.
+38.	Plane trigonometry. Solving triangles. Applications.
+39.	Geometry of the triangle.
+40.	Geometry of the circumference. Angles on the circle. Power of a point to a circle.
+41.	Movements in the plane. Composition of motions. Application to the study of plane tessellations. Friezes and mosaics.
+42.	Homothety and similarity in the plane.
+43.	Projections in the plane. Maps. Terrestrial planispheres: main systems of representation.
+44.	Similarity and movements in space.
+45.	Polyhedra. Euler's theorem. Platonic and Archimedean solids.
+46.	Different coordinates to describe the plane or space. Equations of curves and surfaces.
+47.	Generation of curves as envelopes.
+48.	Spirals and helices. Presence in nature, art and technology.
+49.	Surfaces of revolution. Quadrics. Ruled surfaces. Presence in Nature, Art and Technique.
+50.	Introduction to non-Euclidean geometries. Spherical geometry.
+51.	Reference systems in the plane and in space. Equations of the straight line and the plane. Affine relations.
+52.	Scalar product of vectors. Vector product and mixed product. Applications to solve physical and geometric problems.
+53.	Metric relations: perpendicularity, distances, angles, areas, volumes, etc.
+54.	Conics as plane sections of a conic surface. Analytical study. Presence in Nature, Art and Technique.
+55.	Fractal geometry. Basic notions.
+56.	Historical evolution of geometry.
+57.	Uses of statistics: descriptive statistics and inferential statistics. Basic methods and applications of each one of them.
+58.	Population and sample. Conditions of representativeness of a sample. Types of sampling. Sample size.
+59.	Techniques for obtaining and representing data. Statistical tables and graphs. Tendency and most common errors.
+60.	Statistical parameters. Calculation, meaning and properties.
+61.	Tchebyschev's inequality. Coefficient of variation. Normalized variable. Application to the analysis, interpretation and comparison of statistical data.
+62.	Two-dimensional statistical series. Regression and linear correlation. Correlation coefficient. Meaning and applications.
+63.	Frequency and probability. Laws of chance. Probability space.
+64.	Compound probability. Conditional probability. Total probability. Bayes' theorem.
+65.	Discrete variable probability distributions. Characteristics and treatment. Binomial and Poisson distributions. Applications.
+66.	Continuous variable probability distributions. Characteristics and treatment. The normal distribution. Applications.
+67.	Statistical inference. Hypothesis testing.
+68.	Applications of statistics and probability calculus to the study and decision making in problems of Social and Natural Sciences. Historical evolution.
+69.	Problem solving in mathematics. Strategies. Historical importance.
+70.	Propositional logic. Examples and applications to mathematical reasoning.
+71.	The controversy about the foundations of mathematics. The internal limitations of formal systems.
